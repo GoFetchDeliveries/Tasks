@@ -10,8 +10,8 @@ Welcome to the GoFetch tasks! This is where we manage programming tasks 	— bug
 
 <img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/new_issue.png" width='1024' alt='Creating a new issue'>
 
-* Assign a person to the issue, if needed:
-
+* If known, assign a person to the issue. This way we know why is working on this task.
+ 
 <img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/assign_person_to_issue.png" width='355' alt='Assign person to issue'>
 
 * Click "Submit issue" button.
