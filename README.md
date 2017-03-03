@@ -5,6 +5,7 @@ Welcome to the GoFetch tasks! This is where we manage programming tasks 	— bug
 ## Creating a new issue
 
 * Click  green "New Issues" button in the [issues](https://github.com/GoFetchDeliveries/Tasks/issues) page.
+* Write a title and desription.
 * Add relavant label(s) to the issue: `bug`, `enhancement`, `ios`, `web`, `backend`.
 
 <img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/new_issue.png" width='1024' alt='Creating a new issue'>
