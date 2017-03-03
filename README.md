@@ -18,7 +18,9 @@ Welcome to the GoFetch tasks! This is where we manage programming tasks 	— bug
 
 ## Working with issues
 
-* Leave a comment in the issue.
+* Leave a comment in the issue. If you address a person by writing her/his username with "@" symbol. For example, here is we are addressing Evgenii.
+
+> @evgenyneu, the fix works
 
 * When the work is done, click "Close issue" button.
 
