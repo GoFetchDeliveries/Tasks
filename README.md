@@ -4,3 +4,4 @@ This repostiory is used to record bugs and new features for the GoFetch apps. He
 
 * The list if available in the [issues section](issues).
 * Click green "New Issues" button to create a new issue.
+* If applicable, add iOS, Web or Backend tags to the issue.
