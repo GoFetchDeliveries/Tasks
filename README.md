@@ -23,7 +23,7 @@ Welcome to the GoFetch tasks! This repostiory is used to record bugs and new fea
 
 ## Referencing an issue from outside Github
 
-Each issue has a unique number, which is a convenient way for us to reference it from other documents and emails.  For example we can write an in email: "I am current stuck with issue #23". Or, in the "Tech Fixes" spreadsheet we can add a column "Issue #" with value `23` for this task.
+Each issue has a unique number, which is a convenient way for us to reference it from other documents and emails.  For example we can write in an email: "I am current stuck with #23". Or, in the "Tech Fixes" spreadsheet we can add a column "Issue #" with value `23` for this task.
 
 <img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/issue_number.png" width='398' alt='Issue number'>
 
