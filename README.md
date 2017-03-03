@@ -18,7 +18,7 @@ Welcome to the GoFetch tasks! This is where we manage programming tasks 	— bug
 
 ## Working with issues
 
-* Leave a comment in the issue. If you address a person by writing her/his username with "@" symbol. For example, here is we are addressing Evgenii.
+* Leave a comment in the issue. This is a good way to update the team about the progress and communicate with other members. To address a person, write her/his Github username with "@" symbol. For example, here is we are addressing Evgenii and he will receive a notification.
 
 > @evgenyneu, the fix works
 
