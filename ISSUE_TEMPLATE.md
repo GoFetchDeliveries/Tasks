@@ -1,15 +1,20 @@
 
-
 If it's a bugreport, please fill the template below. If it's a feature, remove it and write a description.
 
 ## Overview
 
 In a couple of sentences, write the description of the issue.
 
-For iOS buts write:
+For iOS bugs write:
 
 * iOS app version: v1.4.1
 * iOS version: 10.1
+
+
+For Web bugs write:
+
+* Brower: IE 10.
+
 
 ## How to reproduce
 
