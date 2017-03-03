@@ -4,8 +4,7 @@ Welcome to the GoFetch tasks! This repostiory is used to record bugs and new fea
 
 ## Creating a new issue
 
-* Click the [Issues](https://github.com/GoFetchDeliveries/Tasks/issues) tab.
-* Click green "New Issues" button to create a new issue.
+* Click  green "New Issues" button in the [Issues](https://github.com/GoFetchDeliveries/Tasks/issues) tab.
 * Add relavant label(s) to the issue: `bug`, `enhancement`, `ios`, `web`, `backend`.
 * Click "Submit issue" button.
 
