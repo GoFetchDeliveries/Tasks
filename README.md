@@ -1,6 +1,6 @@
 # 🐶 GoFetch tasks
 
-Welcome to the GoFetch tasks! This repostiory is used to record bugs and new features for the GoFetch apps. Here is how to use it. The list if available in the [issues section](https://github.com/GoFetchDeliveries/Tasks/issues).
+Welcome to the GoFetch tasks! This is where we manage programming tasks 	— bugs and new features 	— for the GoFetch apps.  This list of tasks is in the [issues section](https://github.com/GoFetchDeliveries/Tasks/issues). 
 
 ## Creating a new issue
 
