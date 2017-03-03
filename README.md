@@ -1,10 +1,10 @@
 # 🐶 GoFetch tasks
 
-Welcome to the GoFetch tasks! This is where we manage programming tasks 	— bugs and new features 	— for the GoFetch apps.  This list of tasks is in the [issues section](https://github.com/GoFetchDeliveries/Tasks/issues). 
+Welcome to the GoFetch tasks! This is where we manage programming tasks 	— bugs and new features 	— for the GoFetch apps.  This list of tasks is in the [issues page](https://github.com/GoFetchDeliveries/Tasks/issues). 
 
 ## Creating a new issue
 
-* Click  green "New Issues" button in the [Issues](https://github.com/GoFetchDeliveries/Tasks/issues) tab.
+* Click  green "New Issues" button in the [issues](https://github.com/GoFetchDeliveries/Tasks/issues) page.
 * Add relavant label(s) to the issue: `bug`, `enhancement`, `ios`, `web`, `backend`.
 
 <img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/new_issue.png" width='1024' alt='Creating a new issue'>
