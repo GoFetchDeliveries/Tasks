@@ -20,7 +20,7 @@ Welcome to the GoFetch tasks! This is where we manage programming tasks 	— bug
 
 * Leave a comment in the issue. This is a good way to update the team about the progress and communicate with other members. To address a person, write her/his Github username with "@" symbol. For example, here is we are addressing Evgenii and he will receive a notification.
 
-> @evgenyneu, the fix works
+> @evgenyneu, the fix works in iOS v1.4.4 👍.
 
 * When the work is done, click "Close issue" button.
 
