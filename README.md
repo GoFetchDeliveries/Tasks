@@ -45,7 +45,7 @@ Each issue has a unique number, which is a convenient way for us to reference it
 
 <img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/writing_bug_report_title.png" width='360' alt='Writing a good bugreport title'>
 
-* Create four section:
+* Create four sections:
 
   * *Overview*: In a couple of sentences, write the description of the issue. Include the version of the iOS app or the name of the web browser.
 
