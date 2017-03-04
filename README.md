@@ -1,6 +1,6 @@
 # 🐶 GoFetch tasks
 
-Welcome to the GoFetch tasks! This is where we manage and discuss programming tasks — bugs and new features — for the GoFetch apps.  This list of tasks is in the [issues page](https://github.com/GoFetchDeliveries/Tasks/issues).
+Welcome to the GoFetch tasks! This is where we manage and discuss programming tasks — bugs and new features — for the GoFetch apps.  The list of tasks is in the [issues page](https://github.com/GoFetchDeliveries/Tasks/issues).
 
 
 
