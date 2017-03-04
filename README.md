@@ -19,9 +19,9 @@ Welcome to the GoFetch tasks! This is where we manage and discuss programming ta
 * Click "Submit issue" button.
 
 
-## Adding screenshots
+## Adding images
 
-Screenshots could be very helpful to reproduce the problem or describe a new feature. To add an image, simply drag an image into the description field.
+Screenshots could be very helpful to reproduce the problem. And mockups are a good way to describe a new feature. To add an image, simply drag an image into the description field.
 
 
 
