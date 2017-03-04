@@ -32,7 +32,7 @@ Each issue has a unique number, which is a convenient way for us to reference it
 
 <img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/issue_number_2.png" width='637' alt='Issue number'>
 
-## Good bug report tips
+## Tips on writing an awesome bug report
 
 * Write a short title that provides a clear description of a problem. For exampe: "iOS app creashes on customer sign up screen."
 
