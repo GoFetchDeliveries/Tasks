@@ -34,4 +34,6 @@ Write how the app should behave.
 
 Describe how the app actually behaves.
 
-*Note*: screenshots could be very helpful to understand and reproduce the problem.
+## Screenshots
+
+Screenshots could be very helpful to understand and reproduce the problem or describe the new feature. To add an image, simply drag an image into the description field.
