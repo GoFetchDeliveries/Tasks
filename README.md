@@ -19,6 +19,10 @@ Welcome to the GoFetch tasks! This is where we manage and discuss programming ta
 * Click "Submit issue" button.
 
 
+## Adding screenshots
+
+Screenshots could be very helpful to reproduce the problem or describe a new feature. To add an image, simply drag an image into the description field.
+
 
 
 ## Working with issues
@@ -66,9 +70,7 @@ Welcome to the GoFetch tasks! This is where we manage and discuss programming ta
 
 See this issue example here: [#2](https://github.com/GoFetchDeliveries/Tasks/issues/2).
 
-### Screenshots
 
-Screenshots could be very helpful to understand and reproduce the problem. To add an image, simply drag an image into the description field.
 
 
 
