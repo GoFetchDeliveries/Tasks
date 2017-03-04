@@ -1,7 +1,6 @@
 
-* If it's a bug report, please fill the template below and remove the instructions.
-
-* If it's a feature, remove the whole text and write your description.
+If it's a bug report, please fill the template below and remove the instructions.
+If it's a feature, remove the whole text and write your description.
 
 ## Overview
 
