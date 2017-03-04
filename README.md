@@ -47,7 +47,7 @@ Each issue has a unique number, which is a convenient way for us to reference it
 
 * Create four sections:
 
-  * *Overview*: In a couple of sentences, write the description of the issue. Include the version of the iOS app or the name of the web browser.
+  * *Overview*: In a couple of sentences, write the description of the issue. Include the version of the iOS app, iPhone model for an iOS bug or the name of the web browser and OS for a web bug.
 
   * *How to reproduce*: Write steps necessary to reproduce the problem.
 
@@ -55,7 +55,7 @@ Each issue has a unique number, which is a convenient way for us to reference it
 
   * *Actual behavior*: Write what's acrually happening. Example: "The app crashes".
 
-<img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/writing_bug_report_2.png" width='344' alt='Writing a good bugreport'>
+<img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/writing_bug_report_3.png" width='344' alt='Writing a good bugreport'>
 
 
 
