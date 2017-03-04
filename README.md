@@ -29,9 +29,15 @@ Welcome to the GoFetch tasks! This is where we manage programming tasks — bugs
 
 * When the work is done, click "Close issue" button.
 
+
+
 ## Referencing an issue from outside Github
 
-Each issue has a unique number, which is a convenient way for us to reference it from other documents and emails.  For example we can write in an email: "I am current stuck with #23". Or, in the "Tech Fixes" spreadsheet we can add a column "Issue #" with value `23` for this task.
+* Each issue has a unique number, which is a convenient way for us to reference it from other documents and emails.
+
+* For example we can write in an email: "I am current stuck with #23". Or, in the "Tech Fixes" spreadsheet we can add a column "Issue #" with value `23` for this task.
+
+* In any Github document, we can just write text #5 and it will be automatically linked to the issue.
 
 <img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/issue_number.png" width='398' alt='Issue number'>
 
@@ -56,6 +62,8 @@ Each issue has a unique number, which is a convenient way for us to reference it
   * *Actual behavior*: Write what's acrually happening. Example: "The app crashes".
 
 <img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/writing_bug_report_3.png" width='344' alt='Writing a good bugreport'>
+
+See this issue example here: #2.
 
 
 
