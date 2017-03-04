@@ -52,7 +52,7 @@ Screenshots could help us to reproduce the problem. And mockups are a good way t
 
 ## Tips on writing an awesome bug report
 
-The following bugreport format was "borrowed" from Apple issue tracker.
+The following bug report format was "borrowed" from Apple issue tracker.
 
 * Write a short title that provides a clear description of a problem. For example: "Crash on customer sign up screen."
 
@@ -71,10 +71,3 @@ The following bugreport format was "borrowed" from Apple issue tracker.
 <img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/writing_bug_report_3.png" width='344' alt='Writing a good bugreport'>
 
 See this issue example here: [#2](https://github.com/GoFetchDeliveries/Tasks/issues/2).
-
-
-
-
-
-
-
