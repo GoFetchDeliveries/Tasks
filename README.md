@@ -45,7 +45,7 @@ Each issue has a unique number, which is a convenient way for us to reference it
   * *Expected behaviour*: Write what's expected. Example: "Shows the registration screen".
   * *Actual behaviour*: Write what's acrually happening. Example: "The app crashes".
 
-<img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/writing_bug_report.png" width='344' alt='Writing a good bugreport'>
+<img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/writing_bug_report_2.png" width='344' alt='Writing a good bugreport'>
 
 
 
