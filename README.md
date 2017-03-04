@@ -54,7 +54,7 @@ Welcome to the GoFetch tasks! This is where we manage and discuss programming ta
 
 * Create four sections:
 
-  * *Overview*: In a couple of sentences, write the description of the issue. Include the version of the iOS app, iPhone model for an iOS bug or the name of the web browser and OS for a web bug.
+  * *Overview*: White a short description of a problem. Include the version of the iOS app, iPhone model for an iOS bug or the name of the web browser and OS for a web bug.
 
   * *How to reproduce*: Write steps necessary to reproduce the problem.
 
