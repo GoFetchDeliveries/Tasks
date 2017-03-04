@@ -39,6 +39,7 @@ Welcome to the GoFetch tasks! This is where we manage programming tasks — bugs
 
 * In any Github document, we can just write text "[#2](https://github.com/GoFetchDeliveries/Tasks/issues/2)" (with relevant number) and it will be automatically linked to the issue.
 
+
 <img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/issue_number.png" width='398' alt='Issue number'>
 
 <img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/issue_number_3.png" width='637' alt='Issue number'>
