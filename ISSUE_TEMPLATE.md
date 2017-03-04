@@ -1,17 +1,17 @@
 
-If it's a bugreport, please fill the template below. If it's a feature, remove it and write a description.
+If it's a bugreport, please fill the template below and remove the instructions. If it's a feature, remove the whole text and write a description.
 
 ## Overview
 
 In a couple of sentences, write the description of the issue.
 
-For iOS bugs write:
+For iOS bugs replace the versions:
 
-* iOS app version: v1.4.1
-* iOS version: 10.1
+* iOS app version: 1.4.1.
+* iOS version: 10.1.
 
 
-For Web bugs write:
+For Web bugs replace the versions:
 
 * Brower: IE 10.
 
