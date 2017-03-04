@@ -1,6 +1,6 @@
 # 🐶 GoFetch tasks
 
-Welcome to the GoFetch tasks! This is where we manage programming tasks 	— bugs and new features 	— for the GoFetch apps.  This list of tasks is in the [issues page](https://github.com/GoFetchDeliveries/Tasks/issues). 
+Welcome to the GoFetch tasks! This is where we manage programming tasks 	— bugs and new features 	— for the GoFetch apps.  This list of tasks is in the [issues page](https://github.com/GoFetchDeliveries/Tasks/issues).
 
 ## Creating a new issue
 
@@ -11,7 +11,7 @@ Welcome to the GoFetch tasks! This is where we manage programming tasks 	— bug
 <img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/new_issue.png" width='1024' alt='Creating a new issue'>
 
 * If known, assign a person to the issue. This way we know why is working on this task.
- 
+
 <img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/assign_person_to_issue.png" width='355' alt='Assign person to issue'>
 
 * Click "Submit issue" button.
@@ -31,6 +31,22 @@ Each issue has a unique number, which is a convenient way for us to reference it
 <img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/issue_number.png" width='398' alt='Issue number'>
 
 <img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/issue_number_2.png" width='637' alt='Issue number'>
+
+## Good bug report tips
+
+* Write a short title that provides a clear description of a problem. For exampe: "iOS app creashes on customer sign up screen."
+
+<img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/writing_bug_report_title.png" width='360' alt='Writing a good bugreport title'>
+
+* Create four section:
+
+  * *Overview*: In a couple of sentences, write the description of the issue. Include the version of the iOS or web apps where the bug was seen.
+  * *How to reproduce*: Write steps necessary to reproduce the problem.
+  * *Expected behaviour*: Write what's expected. Example: "Shows the registration screen".
+  * *Actual behaviour*: Write what's acrually happening. Example: "The app crashes".
+
+<img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/writing_bug_report.png" width='344' alt='Writing a good bugreport'>
+
 
 
 
