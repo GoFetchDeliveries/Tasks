@@ -37,7 +37,7 @@ Welcome to the GoFetch tasks! This is where we manage and discuss programming ta
 
 * For example we can write in an email: "I am currently stuck with #23. Help!". Or, in the "Tech Fixes" spreadsheet we can add a column "Issue #" with value `23` for this task.
 
-* In any Github document, we can just write text "[#2](https://github.com/GoFetchDeliveries/Tasks/issues/2)" (with relevant number) and it will be automatically linked to the issue.
+* In an issue comment, one can just write [#2](https://github.com/GoFetchDeliveries/Tasks/issues/2) and it will be automatically linked to the issue.
 
 
 <img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/issue_number.png" width='398' alt='Issue number'>
