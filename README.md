@@ -35,7 +35,7 @@ Welcome to the GoFetch tasks! This is where we manage and discuss programming ta
 
 * Each issue has a unique number, which is a convenient way for us to reference it from other documents and emails.
 
-* For example we can write in an email: "I am current stuck with #23". Or, in the "Tech Fixes" spreadsheet we can add a column "Issue #" with value `23` for this task.
+* For example we can write in an email: "I am currently stuck with #23. Help!". Or, in the "Tech Fixes" spreadsheet we can add a column "Issue #" with value `23` for this task.
 
 * In any Github document, we can just write text "[#2](https://github.com/GoFetchDeliveries/Tasks/issues/2)" (with relevant number) and it will be automatically linked to the issue.
 
