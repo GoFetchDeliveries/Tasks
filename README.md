@@ -51,9 +51,9 @@ Each issue has a unique number, which is a convenient way for us to reference it
 
   * *How to reproduce*: Write steps necessary to reproduce the problem.
 
-  * *Expected behaviour*: Write what's expected. Example: "Shows the registration screen".
+  * *Expected behavior*: Write what's expected. Example: "Shows the registration screen".
 
-  * *Actual behaviour*: Write what's acrually happening. Example: "The app crashes".
+  * *Actual behavior*: Write what's acrually happening. Example: "The app crashes".
 
 <img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/writing_bug_report_2.png" width='344' alt='Writing a good bugreport'>
 

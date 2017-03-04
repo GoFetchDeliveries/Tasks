@@ -5,15 +5,17 @@ If it's a bugreport, please fill the template below and remove the instructions.
 
 In a couple of sentences, write the description of the issue.
 
-For iOS bugs replace the versions:
+For iOS bugs:
 
 * iOS app version: 1.4.1.
-* iOS version: 10.1.
+* iPhone 6 Plus.
+* iOS: 10.1.
 
 
-For Web bugs replace the versions:
+For Web bugs:
 
 * Brower: IE 10.
+* OS: Windows.
 
 
 ## How to reproduce
