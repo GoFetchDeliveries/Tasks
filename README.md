@@ -5,8 +5,8 @@ Welcome to the GoFetch tasks! This is where we manage programming tasks 	— bug
 ## Creating a new issue
 
 * Click  green "New Issues" button in the [issues](https://github.com/GoFetchDeliveries/Tasks/issues) page.
-* Write a title and desription.
-* Add relavant label(s) to the issue: `bug`, `enhancement`, `ios`, `web`, `backend`.
+* Write a title and description.
+* Add relevant label(s) to the issue: `bug`, `enhancement`, `ios`, `web`, `backend`.
 
 <img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/new_issue.png" width='1024' alt='Creating a new issue'>
 
@@ -40,9 +40,12 @@ Each issue has a unique number, which is a convenient way for us to reference it
 
 * Create four section:
 
-  * *Overview*: In a couple of sentences, write the description of the issue. Include the version of the iOS or web apps where the bug was seen.
+  * *Overview*: In a couple of sentences, write the description of the issue. Include the version of the iOS app or the name of the web browser.
+
   * *How to reproduce*: Write steps necessary to reproduce the problem.
+
   * *Expected behaviour*: Write what's expected. Example: "Shows the registration screen".
+
   * *Actual behaviour*: Write what's acrually happening. Example: "The app crashes".
 
 <img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/writing_bug_report_2.png" width='344' alt='Writing a good bugreport'>
