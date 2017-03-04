@@ -37,7 +37,7 @@ Screenshots could help us to reproduce the problem. And mockups are a good way t
 
 ## Referencing an issue from outside Github
 
-* Each issue has a unique number, which is a convenient way for us to reference it from other documents and emails.
+* Each issue has a unique number, which is a convenient way for us to reference it from other texts.
 
 * For example we can write in an email: "I am currently stuck with #23. Help!". Or, in the "Tech Fixes" spreadsheet we can add a column "Issue #" with value `23` for this task.
 
