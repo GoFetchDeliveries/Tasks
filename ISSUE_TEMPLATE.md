@@ -1,5 +1,7 @@
 
-If it's a bugreport, please fill the template below and remove the instructions. If it's a feature, remove the whole text and write a description.
+* If it's a bug report, please fill the template below and remove the instructions.
+
+* If it's a feature, remove the whole text and write your description.
 
 ## Overview
 
@@ -25,11 +27,11 @@ Write steps necessary for other person to reproduce the problem.
 1. Step 1
 1. Step 2
 
-## Expected behaviour
+## Expected behavior
 
 Write how the app should behave.
 
-## Actual behaviour
+## Actual behavior
 
 Describe how the app actually behaves.
 
