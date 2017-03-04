@@ -52,6 +52,8 @@ Screenshots could help us to reproduce the problem. And mockups are a good way t
 
 ## Tips on writing an awesome bug report
 
+The following bugreport format was "borrowed" from Apple issue tracker.
+
 * Write a short title that provides a clear description of a problem. For example: "Crash on customer sign up screen."
 
 <img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/writing_bug_report_title.png" width='360' alt='Writing a good bugreport title'>
