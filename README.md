@@ -30,7 +30,7 @@ Each issue has a unique number, which is a convenient way for us to reference it
 
 <img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/issue_number.png" width='398' alt='Issue number'>
 
-<img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/issue_number_2.png" width='637' alt='Issue number'>
+<img src="https://github.com/GoFetchDeliveries/Tasks/raw/master/Graphics/issue_number_3.png" width='637' alt='Issue number'>
 
 ## Tips on writing an awesome bug report
 
